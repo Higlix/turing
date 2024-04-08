@@ -16,3 +16,8 @@ print_int (times 10 5);;
 print_endline " <- (times 10 5)";;
 print_int (divide 10 5);;
 print_endline " <- (divide 10 5)";;
+
+print_endline "";;
+print_endline "";;
+
+print_int (7 mod 3)

@@ -1,0 +1,6 @@
+0. Basic Data Types
+1. More Data Types
+2. Expressions
+3. Identifiers
+4. Functions
+5. Recursion
